@@ -33,6 +33,18 @@ Les formateurs aimeraient que le site leur permette de
 
 # **USER STORIES <a name="userstories"></a>**
 
+-En tant qu'utilisateur, j'aimerais accéder au vocabulaire technique pour me familiariser avec les termes importants du référentiel
+-En tant qu'utilisateur, je veux pouvoir faire des tests pour évaluer mes connaissances
+-En tant qu'utilisateur, je veux voir mes informations pour pouvoir suivre ma progression
+-En tant qu'utilisateur, je veux pouvoir ajouter de nouveaux termes pour enrichir le lexique
+-En tant qu'utilisateur, je veux pouvoir proposer une correction afin de m'approprier les notions
+
+-En tant que formateur, je veux pouvoir ajouter et supprimer des mots pour améliorer et enrichir le lexique
+-En tant que formateur, je veux avoir accès aux définitions proposées par les apprenants pour évaluer leur pertinence et enrichir l'expérience
+-En tant que formateur, je veux également voir les informations des apprenants pour pouvoir suivre leur progression
+-En tant que formateur, je veux pouvoir lancer des quizz collectifs pour pouvoir organiser des sessions de travail en groupe
+-En tant que formateur, je peux pouvoir regrouper les termes du lexique en themes pour organiser des sessions de quiz ciblées
+
 # **TACHES TECHNIQUES <a name="tasks"></a>**
 
 # **JOURNAL DE BORD <a name="journal"></a>**
@@ -51,3 +63,5 @@ Salle Scrum Poker :
 https://www.scrumpoker-online.org/fr/room/287146/scrum-poker  
 Maquette Figma :  
 https://www.figma.com/file/7DCZVGgxaJDVQO7IbIGz9z/Untitled?node-id=0%3A1
+
+# **A FAIRE <a name="todo"></a>**
