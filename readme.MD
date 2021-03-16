@@ -45,9 +45,9 @@ Les formateurs aimeraient que le site leur permette de
 
 # **LIENS DU PROJET <a name="links"></a>**
 
-Whiteboard Miro :
+Whiteboard Miro :  
 https://miro.com/app/board/o9J_lPAcdIs=/
-Salle Scrum Poker :
+Salle Scrum Poker :  
 https://www.scrumpoker-online.org/fr/room/287146/scrum-poker
-Maquette Figma :
+Maquette Figma :  
 https://www.figma.com/file/7DCZVGgxaJDVQO7IbIGz9z/Untitled?node-id=0%3A1
