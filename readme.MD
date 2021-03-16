@@ -14,13 +14,22 @@
 
 # **OBJECTIFS DU PROJET <a name="objectifs"></a>**
 
--   Maquetter les interfaces de saisies et de consultations.
--   Création d’une base de données.
--   Création d’une application web (framework à définir).
--   Création d’une API REST (Node.js).
--   Opération CRUD sur la base de données (via l’API).
--   Publication de front-end et back-end sur un serveur de production.
--   Réalisation de tests fonctionnels.
+Dans le cadre de la formation DWWM, Simplon souhaite développer un quizz similaire à celui d’Opquast pour aider les apprenants à réviser le vocabulaire technique à maîtriser pour la certification.
+
+Les formateurs DWWM aimeraient que ce site permette aux apprenants de :
+- se familiariser avec les termes importants du référentiel
+- évaluer leur connaissance du lexique régulièrement
+- suivre leur progression
+- enrichir ce lexique avec des mots nouveaux
+- proposer leur propres corrections pour s’approprier les notions
+
+Les formateurs aimeraient que le site leur permette de
+- ajouter / supprimer des mots
+- passer en revue les définitions données par les apprenants
+- suivre la progression des apprenants / de la promo
+- faire des sessions de quizz collectives pendant les cours
+- regrouper les termes du lexique en thèmes (backend, frontend, SQL, etc.)
+
 
 # **USER STORIES <a name="userstories"></a>**
 
@@ -36,4 +45,9 @@
 
 # **LIENS DU PROJET <a name="links"></a>**
 
+Whiteboard Miro :
 https://miro.com/app/board/o9J_lPAcdIs=/
+Salle Scrum Poker :
+https://www.scrumpoker-online.org/fr/room/287146/scrum-poker
+Maquette Figma :
+https://www.figma.com/file/7DCZVGgxaJDVQO7IbIGz9z/Untitled?node-id=0%3A1
