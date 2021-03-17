@@ -8,6 +8,6 @@ if ($method === "GET" && $path === "/") {
     var_dump($path);                                                                                      
 }
 
-elseif ($method === "GET" && $path === "/login") {                                                
+elseif ($method === "GET" && $path === "/?page=login") {                                                
     require './php/views/login.php';                                                                                          
 }   
