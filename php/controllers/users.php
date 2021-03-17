@@ -14,7 +14,7 @@ function createUser () {
     // insertion nouvel utilisateur
     $createUser = $db->prepare("
         INSERT INTO 
-        utilisateurs (email, name, password)
+        users (email, name, password)
         VALUES (:email, :name, :password)
     ");
 
