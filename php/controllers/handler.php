@@ -16,6 +16,9 @@ switch ($task) {
     case 'loguser':
         logUser();
         break;
+    case 'logout':
+        logOut();
+        break;
 }
 
 

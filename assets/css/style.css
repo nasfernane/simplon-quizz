@@ -28,6 +28,39 @@ body {
   -ms-flex-direction: column;
   flex-direction: column; }
 
+.homeContainer {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column; }
+  .homeContainer__header {
+    padding: 0rem 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    width: 100%;
+    height: 8vh;
+    background: #ececec; }
+    .homeContainer__header__userName {
+      font-size: 2rem;
+      font-variant: small-caps; }
+    .homeContainer__header__form--btn {
+      color: #ececec;
+      background: #de5f69;
+      border-radius: 2rem;
+      padding: 1rem 2rem;
+      margin-left: 1rem;
+      outline: none;
+      border: none;
+      cursor: pointer;
+      transition: all 0.2s ease-in;
+      border: 0.1rem solid transparent; }
+      .homeContainer__header__form--btn:hover {
+        background: #ececec;
+        color: #de5f69;
+        border: 0.1rem solid #de5f69; }
+
 .loginContainer {
   width: 100vw;
   height: 100vh;
